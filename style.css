@@ -1,0 +1,62 @@
+
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+header{
+    background-color: rgba(173, 165, 151, 0.027);
+}
+.name-highlight{
+    color: orange;
+    
+}
+
+.card-body h1{
+    font-size: 60px;
+}
+.img-size img{
+    width: 280px;
+    height: 250px ;
+    padding-left: 80px;
+    padding-top: 20px;
+    
+}
+.img-size{
+    border: 0;
+    box-shadow: 10px 10px 40px gray;
+   
+}
+.box{
+    display: flex;
+    height: auto;
+    width: 450px;
+    height: 130px;
+    box-shadow: 5px 5px 20px lightgray;
+    align-items: center;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    
+
+}
+.box img{
+    width: 100%;
+    padding: 20px;
+}
+.box-area{
+    float: left;
+    height: 400px;
+    width: auto;
+
+   
+    
+}
+.shopping-card img{
+    height: 400px;
+    width: 620px;
+    padding-left: 80px;
+    
+    
+}
